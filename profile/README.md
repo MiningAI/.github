@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to our MiningAI organization
+Welcome to MiningAI organization
 
 <!--
 
