@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to our MiningAI organization
+
 <!--
 
 **Here are some ideas to get you started:**
